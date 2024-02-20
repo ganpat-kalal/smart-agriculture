@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "670638843818",
+    "firebase_url": "https://smart-agriculture-f3805.firebaseio.com",
+    "project_id": "smart-agriculture-f3805",
+    "storage_bucket": "smart-agriculture-f3805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670638843818:android:36a01c70721e2946",
+        "android_client_info": {
+          "package_name": "com.ganpat.agriculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670638843818-s0at6bc11k9ood040kv9i7hv16c105jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ganpat.agriculture",
+            "certificate_hash": "f7b07ac9bb7a72f7e528e5ace2ae533199fdd33f"
+          }
+        },
+        {
+          "client_id": "670638843818-1069hcso5l18pclrg4fgkg928us18bob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ganpat.agriculture",
+            "certificate_hash": "59b88091ddeeffe4181fe8dd1fe3fa7fdf852af1"
+          }
+        },
+        {
+          "client_id": "670638843818-mp4d1tvep5eturr4t1dkuo9gr8c46ntn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1g1SjCrNlrUC7KWdNNol85Y4RyATz9Xo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670638843818-mp4d1tvep5eturr4t1dkuo9gr8c46ntn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670638843818:android:5e90493513583f9d",
+        "android_client_info": {
+          "package_name": "com.ganpat.smartagriculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670638843818-mp4d1tvep5eturr4t1dkuo9gr8c46ntn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1g1SjCrNlrUC7KWdNNol85Y4RyATz9Xo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
